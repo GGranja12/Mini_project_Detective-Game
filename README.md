@@ -1,10 +1,10 @@
-# Mini_project_Ludo
+# Mini_project_Detective Game
 
 <div style="text-align: left;">
   <h2>About the Project 👀🎲🔪🩸	</h2>
 
   <p>
-    Welcome to "Ludo", our text-based game inspired by the mistery game CLuedo, implemented using basic Python functionalities.
+    Welcome to "Detective Game", our text-based game inspired by the mistery game CLuedo, implemented using basic Python functionalities.
     This mini_project was developed while attending Ironhack's Data Analytics bootcamp. 
   </p>
   
@@ -25,4 +25,4 @@
 
 ---
 
-# Thank you for your time! We hope you enjoy playing "Ludo"! 😁
+# Thank you for your time! We hope you enjoy playing "Detective Game"! 😁
