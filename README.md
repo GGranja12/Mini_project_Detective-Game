@@ -4,7 +4,7 @@
   <h2>About the Project 👀🎲🔪🩸	</h2>
 
   <p>
-    Welcome to "Detective Game", our text-based game inspired by the mistery game CLuedo, implemented using basic Python functionalities.
+    Welcome to "Detective Game", our text-based game inspired by the mistery game Cluedo, implemented using basic Python functionalities.
     This mini_project was developed while attending Ironhack's Data Analytics bootcamp. 
   </p>
   
